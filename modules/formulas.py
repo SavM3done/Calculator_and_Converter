@@ -3,7 +3,7 @@ from scipy import constants
 
 # CURRENCY ----- last update: March 2024
 CURRENCY_RATES = {
-	  "Euro": [1, 1.08, .86, 163.47, 1.66, 1.46, .97, 100], # Euro
+    "Euro": [1, 1.08, .86, 163.47, 1.66, 1.46, .97, 100], # Euro
     "USA Dollars": [0.93, 1, .79, 151.34, 1.53, 1.35, .9, 92.59], # USA Dollars
     "GB Pounds": [1.17, 1.26, 1, 191.09, 1.94, 1.71, 1.14, 116.9], # GB Pounds
     "Yen": [.0061, .0066, .0052, 1, .01, .0089, .006, .61], # Yen
